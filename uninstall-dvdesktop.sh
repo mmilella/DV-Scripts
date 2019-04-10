@@ -12,6 +12,6 @@ echo "Uninstalling All Data and Projects..."
 
 rm -rf ~/Library/Application\ Support/DataVisualization
 rm -rf ~/Library/Application\ Support/DVDesktop
+rm -rf $TMPDIR/DVDesktop
 
 echo "Finished Uninstallation process."
-
