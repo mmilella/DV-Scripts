@@ -8,8 +8,5 @@ Download the scripts and run them if you want clean up the Oracle Analytics Desk
 
 ### Prerequisites
 
-Windows:
-Uninstall the product first then run the script to clean up any artifacts from the previous installation.
-
-Mac:
-Just run the script uninstall and to clean up any artifacts from the previous installation.
+Windows - Uninstall the product first then run the script to clean up any artifacts from the previous installations.
+Mac - Just run the script to uninstall and to clean up any artifacts from the previous installations.
