@@ -5,9 +5,17 @@ Also a script to kill all Oracle Analytics for Desktop running processes on Mac 
 
 ## Getting Started
 
-Download the scripts and run them if you want clean up the Oracle Analytics Desktop (aka Data Visualization for Desktop or DVD) installation but it will remove all artifacts you have created including projects and data sets.
+Uninstall Scripts:
+Download the scripts and run them if you want clean up the Oracle Analytics for Desktop (aka Data Visualization for Desktop or DVD) installation. Keep in mind this will remove all artifacts you have created including projects and data sets.
+
+Kill Script:
+On Mac OS the quit command does not always shut down all the mac processes. The script kill-dvdesktop.sh will force kill all associated processes.
 
 ### Prerequisites
 
-Windows - Uninstall the product first then run the script to clean up any artifacts from the previous installations.
-Mac - Just run the script to uninstall and to clean up any artifacts from the previous installations.
+Uninstall Scripts:
+Windows (CleanDVDesktop.bat): Uninstall the product first! Then run the script to clean up any artifacts from the previous installations.
+Mac (uninstall-dedesktop.sh): Just run the script to uninstall and to clean up any artifacts from the previous installations.
+
+Kill Script:
+No Prerequisites.
