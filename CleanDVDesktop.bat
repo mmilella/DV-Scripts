@@ -6,7 +6,7 @@ ECHO %localappdata%\DVDesktop"
 ECHO %localappdata%\temp\DVDesktop
 ECHO %localappdata%\DataVisualization
 ECHO.
-ECHO This will clean up the DV Desktop installation but it will remove all artifacts you have created including projects and data sets.
+ECHO This will clean up the Oracle Analytics Desktop installation and it will remove all artifacts you have created including projects and data sets.
 ECHO.
 ECHO Basically it will all be gone, so continue with care!!
 ECHO.

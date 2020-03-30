@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Uninstall Data Visualization for Desktop on Mac
-echo "Uninstalling Data Visualization for Desktop on Mac..."
+echo "Uninstalling Oracle Analytics for Desktop on Mac..."
 
 sudo rm -rf "/Applications/Oracle Data Visualization for Desktop.app"
 sudo rm -rf "/Applications/DVDesktop.app"
