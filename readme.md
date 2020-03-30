@@ -1,6 +1,7 @@
-# Oracle Analytics Desktop Uninstall Scripts
+# Oracle Analytics for Desktop Scripts
 
-Helper scripts for cleaning up Oracle Analytics Desktop (aka Data Visualization for Desktop or DVD)
+Helper scripts for cleaning up Oracle Analytics for Desktop (aka Data Visualization for Desktop or DVD)
+Also a script to kill all Oracle Analytics for Desktop running processes on Mac OS.
 
 ## Getting Started
 
