@@ -7,7 +7,7 @@ sudo rm -rf "/Applications/Oracle Data Visualization for Desktop.app"
 sudo rm -rf "/Applications/Oracle Data Visualization Desktop.app"
 sudo rm -rf "/Applications/Oracle Analytics for Desktop.app"
 sudo rm -rf "/Applications/Oracle Analytics Desktop.app"
-sudo rm -rf "/Applications/DVDesktop.app"
+sudo rm -rf "/Applications/dvdesktop.app"
 sudo rm -rf "/Applications/Oracle Data Visualization Desktop Configure Python.app"
 sudo rm -rf "/Applications/Oracle Analytics Desktop Configure Python.app"
 
