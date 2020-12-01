@@ -16,6 +16,10 @@ echo "Uninstalling All Data and Projects..."
 
 rm -rf ~/Library/Application\ Support/DataVisualization
 rm -rf ~/Library/Application\ Support/DVDesktop
+rm -rf ~/Library/Application\ Support/CEF
 rm -rf $TMPDIR/DVDesktop
+rm -rf $TMPDIR/DVDesktopRInstall
+rm -rf /Library/Frameworks/R.framework
+rm -rf ~/Library/Preferences/dvdesktop*
 
-echo "Finished Uninstallation process."
+echo "Finished Uninstalling Oracle Analytics for Desktop on Mac"
